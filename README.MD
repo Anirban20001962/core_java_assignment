@@ -45,6 +45,8 @@ Write a program to maintain students information in a hashmap, using students id
 
 Write a program that will add a group of students to a treeset, and write the sorted contents to a file.
 
+**ATTENTION** Results are stored in some.txt
+
 ## Problem 8
 
 Write a program to show case Upper and lower bound generics
@@ -54,6 +56,10 @@ Write a program to show case Upper and lower bound generics
 Develop a Program using Runnable that will
 Read a large volume of data(10K of Students[id, name, subject,marks scored] records) from CSV file, and load it to an LinkedList.Split the list into multiple partition Spin out a thread that will process each partition, and in the thread logic identify stuedents who scored distinction, passed, not cleared category (based on the marks) Write the content to another file.
 Employ start, yeild, join methods.
+
+**ATTENTION** 
+Source data is **data.csv**
+Processed data is **new.csv**
 
 ## Problem 10
 

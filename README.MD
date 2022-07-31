@@ -4,7 +4,7 @@
 
 Didn't used any build tool such as Maven or Gradle as this code we will not be used in production.
 
-**Explicitly downloaded the jar files required in the lib folder for solving the below problems:-**
+**Explicitly downloaded the required jar files in the lib folder for solving the below problems:-**
 
 ## Problem 1
 
